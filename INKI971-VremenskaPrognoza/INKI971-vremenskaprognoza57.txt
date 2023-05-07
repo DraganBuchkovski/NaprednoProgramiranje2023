@@ -1,0 +1,10 @@
+Bitola,25,15
+Ohrid,24,14
+Tetovo,23,13
+Kavadarci,23,13
+Skopje,22,12
+Strumica,21,11
+Veles,20,10
+Prilep,20,10
+Kumanovo,19,9
+Gostivar,18,8
